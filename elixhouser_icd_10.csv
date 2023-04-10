@@ -1,0 +1,400 @@
+code,condition
+I099,Congestive Heart Failure
+I110,Congestive Heart Failure
+I130,Congestive Heart Failure
+I132,Congestive Heart Failure
+I255,Congestive Heart Failure
+I420,Congestive Heart Failure
+I425,Congestive Heart Failure
+I426,Congestive Heart Failure
+I427,Congestive Heart Failure
+I428,Congestive Heart Failure
+I429,Congestive Heart Failure
+I43,Congestive Heart Failure
+I50,Congestive Heart Failure
+P290,Congestive Heart Failure
+I441,Cardiac Arrhythmia
+I442,Cardiac Arrhythmia
+I443,Cardiac Arrhythmia
+I456,Cardiac Arrhythmia
+I459,Cardiac Arrhythmia
+I47,Cardiac Arrhythmia
+I48,Cardiac Arrhythmia
+I49,Cardiac Arrhythmia
+R000,Cardiac Arrhythmia
+R001,Cardiac Arrhythmia
+R008,Cardiac Arrhythmia
+T821,Cardiac Arrhythmia
+Z450,Cardiac Arrhythmia
+Z950,Cardiac Arrhythmia
+A520,Valvular Disease
+I05,Valvular Disease
+I06,Valvular Disease
+I07,Valvular Disease
+I08,Valvular Disease
+I091,Valvular Disease
+I098,Valvular Disease
+I34,Valvular Disease
+I35,Valvular Disease
+I36,Valvular Disease
+I37,Valvular Disease
+I38,Valvular Disease
+I39,Valvular Disease
+Q230,Valvular Disease
+Q231,Valvular Disease
+Q232,Valvular Disease
+Q233,Valvular Disease
+Z952,Valvular Disease
+Z953,Valvular Disease
+Z954,Valvular Disease
+I26,Pulmonary Circulation Disorders
+I27,Pulmonary Circulation Disorders
+I280,Pulmonary Circulation Disorders
+I288,Pulmonary Circulation Disorders
+I289,Pulmonary Circulation Disorders
+I70,Peripheral Vascular Disorders
+I71,Peripheral Vascular Disorders
+I731,Peripheral Vascular Disorders
+I738,Peripheral Vascular Disorders
+I739,Peripheral Vascular Disorders
+I771,Peripheral Vascular Disorders
+I790,Peripheral Vascular Disorders
+I792,Peripheral Vascular Disorders
+K551,Peripheral Vascular Disorders
+K558,Peripheral Vascular Disorders
+K559,Peripheral Vascular Disorders
+Z958,Peripheral Vascular Disorders
+Z959,Peripheral Vascular Disorders
+I10,Hypertension Uncomlicated
+I11,Hypertension comlicated
+I12,Hypertension comlicated
+I13,Hypertension comlicated
+I15,Hypertension comlicated
+G041,Paralysis
+G114,Paralysis
+G801,Paralysis
+G802,Paralysis
+G81,Paralysis
+G82,Paralysis
+G830,Paralysis
+G831,Paralysis
+G832,Paralysis
+G833,Paralysis
+G834,Paralysis
+G839,Paralysis
+G10,Other Neurological Disorders
+G11,Other Neurological Disorders
+G12,Other Neurological Disorders
+G13,Other Neurological Disorders
+G20,Other Neurological Disorders
+G21,Other Neurological Disorders
+G22,Other Neurological Disorders
+G254,Other Neurological Disorders
+G255,Other Neurological Disorders
+G312,Other Neurological Disorders
+G318,Other Neurological Disorders
+G319,Other Neurological Disorders
+G32,Other Neurological Disorders
+G35,Other Neurological Disorders
+G36,Other Neurological Disorders
+G37,Other Neurological Disorders
+G40,Other Neurological Disorders
+G41,Other Neurological Disorders
+G931,Other Neurological Disorders
+G934,Other Neurological Disorders
+R470,Other Neurological Disorders
+R56,Other Neurological Disorders
+I278,Chronic Pulmonary Disease
+I279,Chronic Pulmonary Disease
+J40,Chronic Pulmonary Disease
+J41,Chronic Pulmonary Disease
+J42,Chronic Pulmonary Disease
+J43,Chronic Pulmonary Disease
+J44,Chronic Pulmonary Disease
+J45,Chronic Pulmonary Disease
+J46,Chronic Pulmonary Disease
+J47,Chronic Pulmonary Disease
+J60,Chronic Pulmonary Disease
+J61,Chronic Pulmonary Disease
+J62,Chronic Pulmonary Disease
+J63,Chronic Pulmonary Disease
+J64,Chronic Pulmonary Disease
+J65,Chronic Pulmonary Disease
+J66,Chronic Pulmonary Disease
+J67,Chronic Pulmonary Disease
+J684,Chronic Pulmonary Disease
+J701,Chronic Pulmonary Disease
+J703,Chronic Pulmonary Disease
+E100,Diabetes Uncomplicated
+E101,Diabetes Uncomplicated
+E109,Diabetes Uncomplicated
+E110,Diabetes Uncomplicated
+E111,Diabetes Uncomplicated
+E119,Diabetes Uncomplicated
+E120,Diabetes Uncomplicated
+E121,Diabetes Uncomplicated
+E129,Diabetes Uncomplicated
+E130,Diabetes Uncomplicated
+E131,Diabetes Uncomplicated
+E139,Diabetes Uncomplicated
+E140,Diabetes Uncomplicated
+E141,Diabetes Uncomplicated
+E149,Diabetes Uncomplicated
+E102,Diabetes Complicated
+E103,Diabetes Complicated
+E104,Diabetes Complicated
+E105,Diabetes Complicated
+E106,Diabetes Complicated
+E107,Diabetes Complicated
+E108,Diabetes Complicated
+E112,Diabetes Complicated
+E113,Diabetes Complicated
+E114,Diabetes Complicated
+E115,Diabetes Complicated
+E116,Diabetes Complicated
+E117,Diabetes Complicated
+E118,Diabetes Complicated
+E122,Diabetes Complicated
+E123,Diabetes Complicated
+E124,Diabetes Complicated
+E125,Diabetes Complicated
+E126,Diabetes Complicated
+E127,Diabetes Complicated
+E128,Diabetes Complicated
+E132,Diabetes Complicated
+E133,Diabetes Complicated
+E134,Diabetes Complicated
+E135,Diabetes Complicated
+E136,Diabetes Complicated
+E137,Diabetes Complicated
+E138,Diabetes Complicated
+E142,Diabetes Complicated
+E143,Diabetes Complicated
+E144,Diabetes Complicated
+E145,Diabetes Complicated
+E146,Diabetes Complicated
+E147,Diabetes Complicated
+E148,Diabetes Complicated
+E00,Hypothyroidism
+E01,Hypothyroidism
+E02,Hypothyroidism
+E03,Hypothyroidism
+E890,Hypothyroidism
+I120,Renal Failure
+I131,Renal Failure
+N18,Renal Failure
+N19,Renal Failure
+N250,Renal Failure
+Z490,Renal Failure
+Z491,Renal Failure
+Z492,Renal Failure
+Z940,Renal Failure
+Z992,Renal Failure
+B18,Liver Disease
+I85,Liver Disease
+I864,Liver Disease
+I982,Liver Disease
+K70,Liver Disease
+K711,Liver Disease
+K713,Liver Disease
+K714,Liver Disease
+K715,Liver Disease
+K717,Liver Disease
+K72,Liver Disease
+K73,Liver Disease
+K74,Liver Disease
+K760,Liver Disease
+K762,Liver Disease
+K763,Liver Disease
+K764,Liver Disease
+K765,Liver Disease
+K766,Liver Disease
+K767,Liver Disease
+K768,Liver Disease
+K769,Liver Disease
+Z944,Liver Disease
+K257,Peptic Ulcer Disease excluding bleeding
+K259,Peptic Ulcer Disease excluding bleeding
+K267,Peptic Ulcer Disease excluding bleeding
+K269,Peptic Ulcer Disease excluding bleeding
+K277,Peptic Ulcer Disease excluding bleeding
+K279,Peptic Ulcer Disease excluding bleeding
+K287,Peptic Ulcer Disease excluding bleeding
+K289,Peptic Ulcer Disease excluding bleeding
+B20,AIDS/HIV
+B21,AIDS/HIV
+B22,AIDS/HIV
+B24,AIDS/HIV
+C81,Lymphoma
+C82,Lymphoma
+C83,Lymphoma
+C84,Lymphoma
+C85,Lymphoma
+C88,Lymphoma
+C96,Lymphoma
+C900,Lymphoma
+C902,Lymphoma
+C77,Metastatic Cancer
+C78,Metastatic Cancer
+C79,Metastatic Cancer
+C80,Metastatic Cancer
+C00,Solid Tumor without Metastasis
+C01,Solid Tumor without Metastasis
+C02,Solid Tumor without Metastasis
+C03,Solid Tumor without Metastasis
+C04,Solid Tumor without Metastasis
+C05,Solid Tumor without Metastasis
+C06,Solid Tumor without Metastasis
+C07,Solid Tumor without Metastasis
+C08,Solid Tumor without Metastasis
+C09,Solid Tumor without Metastasis
+C10,Solid Tumor without Metastasis
+C11,Solid Tumor without Metastasis
+C12,Solid Tumor without Metastasis
+C13,Solid Tumor without Metastasis
+C14,Solid Tumor without Metastasis
+C15,Solid Tumor without Metastasis
+C16,Solid Tumor without Metastasis
+C17,Solid Tumor without Metastasis
+C18,Solid Tumor without Metastasis
+C19,Solid Tumor without Metastasis
+C20,Solid Tumor without Metastasis
+C21,Solid Tumor without Metastasis
+C22,Solid Tumor without Metastasis
+C23,Solid Tumor without Metastasis
+C24,Solid Tumor without Metastasis
+C25,Solid Tumor without Metastasis
+C26,Solid Tumor without Metastasis
+C30,Solid Tumor without Metastasis
+C31,Solid Tumor without Metastasis
+C32,Solid Tumor without Metastasis
+C33,Solid Tumor without Metastasis
+C34,Solid Tumor without Metastasis
+C37,Solid Tumor without Metastasis
+C38,Solid Tumor without Metastasis
+C39,Solid Tumor without Metastasis
+C40,Solid Tumor without Metastasis
+C41,Solid Tumor without Metastasis
+C43,Solid Tumor without Metastasis
+C45,Solid Tumor without Metastasis
+C46,Solid Tumor without Metastasis
+C47,Solid Tumor without Metastasis
+C48,Solid Tumor without Metastasis
+C49,Solid Tumor without Metastasis
+C50,Solid Tumor without Metastasis
+C51,Solid Tumor without Metastasis
+C52,Solid Tumor without Metastasis
+C53,Solid Tumor without Metastasis
+C54,Solid Tumor without Metastasis
+C55,Solid Tumor without Metastasis
+C56,Solid Tumor without Metastasis
+C57,Solid Tumor without Metastasis
+C58,Solid Tumor without Metastasis
+C60,Solid Tumor without Metastasis
+C61,Solid Tumor without Metastasis
+C62,Solid Tumor without Metastasis
+C63,Solid Tumor without Metastasis
+C64,Solid Tumor without Metastasis
+C65,Solid Tumor without Metastasis
+C66,Solid Tumor without Metastasis
+C67,Solid Tumor without Metastasis
+C68,Solid Tumor without Metastasis
+C69,Solid Tumor without Metastasis
+C70,Solid Tumor without Metastasis
+C71,Solid Tumor without Metastasis
+C72,Solid Tumor without Metastasis
+C73,Solid Tumor without Metastasis
+C74,Solid Tumor without Metastasis
+C75,Solid Tumor without Metastasis
+C76,Solid Tumor without Metastasis
+C97,Solid Tumor without Metastasis
+L940,Rheumatoid Arthritis/collagen
+L941,Rheumatoid Arthritis/collagen
+L943,Rheumatoid Arthritis/collagen
+M05,Rheumatoid Arthritis/collagen
+M06,Rheumatoid Arthritis/collagen
+M08,Rheumatoid Arthritis/collagen
+M120,Rheumatoid Arthritis/collagen
+M123,Rheumatoid Arthritis/collagen
+M30,Rheumatoid Arthritis/collagen
+M310,Rheumatoid Arthritis/collagen
+M311,Rheumatoid Arthritis/collagen
+M312,Rheumatoid Arthritis/collagen
+M313,Rheumatoid Arthritis/collagen
+M32,Rheumatoid Arthritis/collagen
+M33,Rheumatoid Arthritis/collagen
+M34,Rheumatoid Arthritis/collagen
+M35,Rheumatoid Arthritis/collagen
+M45,Rheumatoid Arthritis/collagen
+M461,Rheumatoid Arthritis/collagen
+M468,Rheumatoid Arthritis/collagen
+M469,Rheumatoid Arthritis/collagen
+D65,Coagulopathy
+D66,Coagulopathy
+D67,Coagulopathy
+D68,Coagulopathy
+D691,Coagulopathy
+D693,Coagulopathy
+D694,Coagulopathy
+D695,Coagulopathy
+D696,Coagulopathy
+E66,Obesity
+E40,Weight Loss
+E41,Weight Loss
+E42,Weight Loss
+E43,Weight Loss
+E44,Weight Loss
+E45,Weight Loss
+E46,Weight Loss
+R634,Weight Loss
+R64,Weight Loss
+E222,Fluid and Electrolyte Disorders
+E86,Fluid and Electrolyte Disorders
+E87,Fluid and Electrolyte Disorders
+D500,Blood Loss Anemia
+D508,Deficiency Anemia
+D509,Deficiency Anemia
+D51,Deficiency Anemia
+D52,Deficiency Anemia
+D53,Deficiency Anemia
+F10,Alcohol Abuse
+E52,Alcohol Abuse
+G621,Alcohol Abuse
+I426,Alcohol Abuse
+K292,Alcohol Abuse
+K700,Alcohol Abuse
+K703,Alcohol Abuse
+K709,Alcohol Abuse
+T51,Alcohol Abuse
+Z502,Alcohol Abuse
+Z714,Alcohol Abuse
+Z721,Alcohol Abuse
+F11,Drug Abuse
+F12,Drug Abuse
+F13,Drug Abuse
+F14,Drug Abuse
+F15,Drug Abuse
+F16,Drug Abuse
+F18,Drug Abuse
+F19,Drug Abuse
+Z715,Drug Abuse
+Z722,Drug Abuse
+F20,Psychoses
+F22,Psychoses
+F23,Psychoses
+F24,Psychoses
+F25,Psychoses
+F28,Psychoses
+F29,Psychoses
+F302,Psychoses
+F312,Psychoses
+F315,Psychoses
+F204,Depression
+F313,Depression
+F314,Depression
+F315,Depression
+F32,Depression
+F33,Depression
+F341,Depression
+F412,Depression
+F432,Depression

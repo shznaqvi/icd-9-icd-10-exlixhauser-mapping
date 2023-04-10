@@ -1,0 +1,323 @@
+code,condition
+39891,Congestive Heart Failure
+40201,Congestive Heart Failure
+40211,Congestive Heart Failure
+40291,Congestive Heart Failure
+40401,Congestive Heart Failure
+40403,Congestive Heart Failure
+40411,Congestive Heart Failure
+40413,Congestive Heart Failure
+40491,Congestive Heart Failure
+40493,Congestive Heart Failure
+4254,Congestive Heart Failure
+4255,Congestive Heart Failure
+4257,Congestive Heart Failure
+4258,Congestive Heart Failure
+4259,Congestive Heart Failure
+428,Congestive Heart Failure
+4260,Cardiac Arrhythmia
+42613,Cardiac Arrhythmia
+4267,Cardiac Arrhythmia
+4269,Cardiac Arrhythmia
+42610,Cardiac Arrhythmia
+42612,Cardiac Arrhythmia
+4270,Cardiac Arrhythmia
+4271,Cardiac Arrhythmia
+4272,Cardiac Arrhythmia
+4273,Cardiac Arrhythmia
+4274,Cardiac Arrhythmia
+4276,Cardiac Arrhythmia
+4278,Cardiac Arrhythmia
+4279,Cardiac Arrhythmia
+7850,Cardiac Arrhythmia
+99601,Cardiac Arrhythmia
+99604,Cardiac Arrhythmia
+V450,Cardiac Arrhythmia
+V533,Cardiac Arrhythmia
+0932,Valvular Disease
+394,Valvular Disease
+395,Valvular Disease
+396,Valvular Disease
+397,Valvular Disease
+424,Valvular Disease
+7463,Valvular Disease
+7464,Valvular Disease
+7465,Valvular Disease
+7466,Valvular Disease
+V422,Valvular Disease
+V433,Valvular Disease
+4150,Pulmonary Circulation Disorders
+4151,Pulmonary Circulation Disorders
+416,Pulmonary Circulation Disorders
+4170,Pulmonary Circulation Disorders
+4178,Pulmonary Circulation Disorders
+4179,Pulmonary Circulation Disorders
+0930,Peripheral Vascular Disorders
+4373,Peripheral Vascular Disorders
+440,Peripheral Vascular Disorders
+441,Peripheral Vascular Disorders
+4431,Peripheral Vascular Disorders
+4432,Peripheral Vascular Disorders
+4438,Peripheral Vascular Disorders
+4439,Peripheral Vascular Disorders
+4471,Peripheral Vascular Disorders
+5571,Peripheral Vascular Disorders
+5579,Peripheral Vascular Disorders
+V434,Peripheral Vascular Disorders
+401,Hypertension Uncomplicated
+402,Hypertension Complicated
+403,Hypertension Complicated
+404,Hypertension Complicated
+405,Hypertension Complicated
+3341,Paralysis
+342,Paralysis
+343,Paralysis
+3440,Paralysis
+3441,Paralysis
+3442,Paralysis
+3443,Paralysis
+3444,Paralysis
+3445,Paralysis
+3446,Paralysis
+3449,Paralysis
+3319,Other Neurological Disorders
+3320,Other Neurological Disorders
+3321,Other Neurological Disorders
+3334,Other Neurological Disorders
+3335,Other Neurological Disorders
+33392,Other Neurological Disorders
+334,Other Neurological Disorders
+335,Other Neurological Disorders
+3362,Other Neurological Disorders
+340,Other Neurological Disorders
+341,Other Neurological Disorders
+345,Other Neurological Disorders
+3481,Other Neurological Disorders
+3483,Other Neurological Disorders
+7803,Other Neurological Disorders
+7843,Other Neurological Disorders
+4168,Chronic Pulmonary Disease
+4169,Chronic Pulmonary Disease
+490,Chronic Pulmonary Disease
+491,Chronic Pulmonary Disease
+492,Chronic Pulmonary Disease
+493,Chronic Pulmonary Disease
+494,Chronic Pulmonary Disease
+495,Chronic Pulmonary Disease
+496,Chronic Pulmonary Disease
+500,Chronic Pulmonary Disease
+501,Chronic Pulmonary Disease
+502,Chronic Pulmonary Disease
+503,Chronic Pulmonary Disease
+504,Chronic Pulmonary Disease
+505,Chronic Pulmonary Disease
+5064,Chronic Pulmonary Disease
+5081,Chronic Pulmonary Disease
+5088,Chronic Pulmonary Disease
+2500,Diabetes Uncomplicated
+2501,Diabetes Uncomplicated
+2502,Diabetes Uncomplicated
+2503,Diabetes Uncomplicated
+2504,Diabetes Complicated
+2505,Diabetes Complicated
+2506,Diabetes Complicated
+2507,Diabetes Complicated
+2508,Diabetes Complicated
+2509,Diabetes Complicated
+2409,Hypothyroidism
+243,Hypothyroidism
+244,Hypothyroidism
+2461,Hypothyroidism
+2468,Hypothyroidism
+40301,Renal Failure
+40311,Renal Failure
+40391,Renal Failure
+40402,Renal Failure
+40403,Renal Failure
+40412,Renal Failure
+40413,Renal Failure
+40492,Renal Failure
+40493,Renal Failure
+585,Renal Failure
+586,Renal Failure
+5880,Renal Failure
+V420,Renal Failure
+V451,Renal Failure
+V56,Renal Failure
+07022,Liver Disease
+07023,Liver Disease
+07032,Liver Disease
+07033,Liver Disease
+07044,Liver Disease
+07054,Liver Disease
+0706,Liver Disease
+0709,Liver Disease
+4560,Liver Disease
+4561,Liver Disease
+4562,Liver Disease
+570,Liver Disease
+571,Liver Disease
+5722,Liver Disease
+5723,Liver Disease
+5724,Liver Disease
+5728,Liver Disease
+5733,Liver Disease
+5734,Liver Disease
+5738,Liver Disease
+5739,Liver Disease
+V427,Liver Disease
+5317,Peptic Ulcer Disease excluding bleeding
+5319,Peptic Ulcer Disease excluding bleeding
+5327,Peptic Ulcer Disease excluding bleeding
+5329,Peptic Ulcer Disease excluding bleeding
+5337,Peptic Ulcer Disease excluding bleeding
+5339,Peptic Ulcer Disease excluding bleeding
+5347,Peptic Ulcer Disease excluding bleeding
+5349,Peptic Ulcer Disease excluding bleeding
+042,AIDS/HIV
+043,AIDS/HIV
+044,AIDS/HIV
+200,Lymphoma
+201,Lymphoma
+202,Lymphoma
+2030,Lymphoma
+2386,Lymphoma
+196,Metastatic Cancer
+197,Metastatic Cancer
+198,Metastatic Cancer
+199,Metastatic Cancer
+140,Solid Tumor without Metastasis
+141,Solid Tumor without Metastasis
+142,Solid Tumor without Metastasis
+143,Solid Tumor without Metastasis
+144,Solid Tumor without Metastasis
+145,Solid Tumor without Metastasis
+146,Solid Tumor without Metastasis
+147,Solid Tumor without Metastasis
+148,Solid Tumor without Metastasis
+149,Solid Tumor without Metastasis
+150,Solid Tumor without Metastasis
+151,Solid Tumor without Metastasis
+152,Solid Tumor without Metastasis
+153,Solid Tumor without Metastasis
+154,Solid Tumor without Metastasis
+155,Solid Tumor without Metastasis
+156,Solid Tumor without Metastasis
+157,Solid Tumor without Metastasis
+158,Solid Tumor without Metastasis
+159,Solid Tumor without Metastasis
+160,Solid Tumor without Metastasis
+161,Solid Tumor without Metastasis
+162,Solid Tumor without Metastasis
+163,Solid Tumor without Metastasis
+164,Solid Tumor without Metastasis
+165,Solid Tumor without Metastasis
+166,Solid Tumor without Metastasis
+167,Solid Tumor without Metastasis
+168,Solid Tumor without Metastasis
+169,Solid Tumor without Metastasis
+170,Solid Tumor without Metastasis
+171,Solid Tumor without Metastasis
+172,Solid Tumor without Metastasis
+174,Solid Tumor without Metastasis
+175,Solid Tumor without Metastasis
+176,Solid Tumor without Metastasis
+177,Solid Tumor without Metastasis
+178,Solid Tumor without Metastasis
+179,Solid Tumor without Metastasis
+180,Solid Tumor without Metastasis
+181,Solid Tumor without Metastasis
+182,Solid Tumor without Metastasis
+183,Solid Tumor without Metastasis
+184,Solid Tumor without Metastasis
+185,Solid Tumor without Metastasis
+186,Solid Tumor without Metastasis
+187,Solid Tumor without Metastasis
+188,Solid Tumor without Metastasis
+189,Solid Tumor without Metastasis
+190,Solid Tumor without Metastasis
+191,Solid Tumor without Metastasis
+192,Solid Tumor without Metastasis
+193,Solid Tumor without Metastasis
+194,Solid Tumor without Metastasis
+195,Solid Tumor without Metastasis
+446,Rheumatoid Arthritis/collagen
+7010,Rheumatoid Arthritis/collagen
+7100,Rheumatoid Arthritis/collagen
+7101,Rheumatoid Arthritis/collagen
+7102,Rheumatoid Arthritis/collagen
+7103,Rheumatoid Arthritis/collagen
+7104,Rheumatoid Arthritis/collagen
+7108,Rheumatoid Arthritis/collagen
+7109,Rheumatoid Arthritis/collagen
+7112,Rheumatoid Arthritis/collagen
+714,Rheumatoid Arthritis/collagen
+7193,Rheumatoid Arthritis/collagen
+720,Rheumatoid Arthritis/collagen
+725,Rheumatoid Arthritis/collagen
+7285,Rheumatoid Arthritis/collagen
+72889,Rheumatoid Arthritis/collagen
+72930,Rheumatoid Arthritis/collagen
+286,Coagulopathy
+2871,Coagulopathy
+2873,Coagulopathy
+2874,Coagulopathy
+2875,Coagulopathy
+2780,Obesity
+260,Weight Loss
+261,Weight Loss
+262,Weight Loss
+263,Weight Loss
+7832,Weight Loss
+7994,Weight Loss
+2536,Fluid and Electrolyte Disorders
+276,Fluid and Electrolyte Disorders
+2800,Blood Loss Anemia
+2801,Deficiency Anemia
+2808,Deficiency Anemia
+2809,Deficiency Anemia
+281,Deficiency Anemia
+2652,Alcohol Abuse
+2911,Alcohol Abuse
+2912,Alcohol Abuse
+2913,Alcohol Abuse
+2915,Alcohol Abuse
+2918,Alcohol Abuse
+2919,Alcohol Abuse
+3030,Alcohol Abuse
+3039,Alcohol Abuse
+3050,Alcohol Abuse
+3575,Alcohol Abuse
+4255,Alcohol Abuse
+5353,Alcohol Abuse
+5710,Alcohol Abuse
+5711,Alcohol Abuse
+5712,Alcohol Abuse
+5713,Alcohol Abuse
+980,Alcohol Abuse
+V113,Alcohol Abuse
+292,Drug Abuse
+304,Drug Abuse
+3052,Drug Abuse
+3053,Drug Abuse
+3054,Drug Abuse
+3055,Drug Abuse
+3056,Drug Abuse
+3057,Drug Abuse
+3058,Drug Abuse
+3059,Drug Abuse
+V6542,Drug Abuse
+2938,Psychoses
+295,Psychoses
+29604,Psychoses
+29614,Psychoses
+29644,Psychoses
+29654,Psychoses
+297,Psychoses
+298,Psychoses
+2962,Depression
+2963,Depression
+2965,Depression
+3004,Depression
+309,Depression
+311,Depression
